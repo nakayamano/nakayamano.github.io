@@ -752,7 +752,7 @@
 
 				ul.icons li a:before {/*teitterとかが貼ってあるアイコンの中身、鳥とか*/	
 					color: #ffffffe1;	/*鳥の中身、塗りつぶしカラー*/
-					text-shadow: 1.25px 0px 0px #979, -1.25px 0px 0px #979, 0px 1.25px 0px #979, 0px -1.25px 0px #979;/*鳥とかの縁*/
+					text-shadow: 1.25px 0px 0px rgba(153, 119, 153, 0.829), -1.25px 0px 0px rgba(153, 119, 153, 0.829), 0px 1.25px 0px rgba(153, 119, 153, 0.829), 0px -1.25px 0px #979;/*鳥とかの縁*/
 				}
 
 				ul.icons li a:hover:before {
