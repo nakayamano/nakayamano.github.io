@@ -762,7 +762,7 @@
 				ul.icons li a:before {
 					position: absolute;
 					top: 0;
-					left: 0;
+					left: 2px;	/*鳥とかのアイコン、丸い縁の中のどれくらい左側から始めるかってやつ。これ見つけるの大変だった。真ん中行けたね*/
 					width: inherit;
 					height: inherit;
 					font-size: 1.85rem;
