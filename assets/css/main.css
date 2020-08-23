@@ -726,13 +726,13 @@
 			padding: 0.675em 0.5em;
 		}
 
-			ul.icons li a {/*twitterとかが貼ってあるアイコンの周り、縁、まるいところ*/
+			ul.icons li a {	/*twitterとかが貼ってあるアイコンの周り、縁、まるいところ*/
 				text-decoration: none;
 				position: relative;
 				display: block;
 				width: 3.75em;
 				height: 3.75em;
-				border-radius: 100%;/*これクローバーとか作れるやつ*/
+				border-radius: 100%;	/*これクローバーとか作れるやつ*/
 				border: solid 1px #979696;
 				line-height: 3.75em;
 				overflow: hidden;
@@ -750,7 +750,7 @@
 					text-transform: none !important;
 				}
 
-				ul.icons li a:before {/*teitterとかが貼ってあるアイコンの中身、鳥とか*/	
+				ul.icons li a:before {	/*teitterとかが貼ってあるアイコンの中身、鳥とか*/	
 					color: #ffffffe1;	/*鳥の中身、塗りつぶしカラー*/
 					text-shadow: 1.25px 0px 0px rgba(153, 119, 153, 0.829), -1.25px 0px 0px rgba(153, 119, 153, 0.829), 0px 1.25px 0px rgba(153, 119, 153, 0.829), 0px -1.25px 0px #979;/*鳥とかの縁*/
 				}
